@@ -1,12 +1,10 @@
 Olá, meu nome é Thiago, porém muitos me chamam apenas de Shibata!
 
-Sou servidor público na área de Segurança Pública!
-
 Me formei em Ciência da Computação e atuei na área de TI por mais de 10 anos! 
-Nesse período trabalhei em diversas áreas, desde conserto de celulares até gerenciamento de projetos (01 ano antes de passar em um concurso público).
+Nesse período trabalhei em diversas áreas, desde conserto suporte em computadores até gerenciamento de projetos (01 ano antes de passar em um concurso público).
 
 Comecei estudando java na faculdade, mas no final acabei entregando um projeto em PHP no meu TCC.
-Muitos anos depois me aventurei no mundo do javascript com Node e React, porém sem levar muito a sério a carreira de desenvolvedor com essas tecnologias.
+Muitos anos depois me aventurei no mundo do javascript com Node e React. Desenvolvi APIs, Aplicações web responsivas e até um app Mobile com React-Native.
 
 Atualmente estou estudando Python pela Rocketseat! Também fiz um curso básico de Python com análise de dados pela Asimov, que muito me agradou!
 
