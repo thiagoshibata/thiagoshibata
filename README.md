@@ -1,3 +1,12 @@
+<style type="text/css">
+  img {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 40px;
+  }
+  
+</style> 
+
 ## ---------- Olá ------------
 
 <h2>Apresentação</h2>
