@@ -14,7 +14,7 @@ Quero me especializar em Python, desenvolver aplicações de análise de dados e
 
 É importante mencionar que nunca trabalhei profissionalmente como desenvolvedor, mas logo quero entrar no mercado!
 
-Estou aberto para ajudar em projetos em python!
+Estou aberto para ajudar em projetos de desenvolvimento com Python!
 
 <!--
 **thiagoshibata/thiagoshibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
