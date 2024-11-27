@@ -1,4 +1,3 @@
-## ---------- Olá ------------
 
 <h2>Apresentação</h2>
 <p>Olá, meu nome é Thiago, porém muitos me chamam apenas de Shibata!Tenho 33 anos, morador de Brasília-DF e sou Servidor Público.</p>
@@ -18,8 +17,6 @@
 
 <p>Estou aberto para ajudar em projetos de desenvolvimento com Python!</p>
 
-
-## ----------- Hello! ----------
 
 <h2>Presentation</h2>
 <p>Hello, my name is Thiago, but many just call me Shibata! I'm 33 years old, resident of Brasília-DF and I'm a Public Servant.</p>
