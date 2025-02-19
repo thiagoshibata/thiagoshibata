@@ -11,7 +11,7 @@
 
 <p>Atualmente estou estudando Python pela Rocketseat! Também fiz um curso básico de Python com análise de dados pela Asimov, que muito me agradou!
           
-<p>Quero me especializar em Python, desenvolver aplicações de análise de dados e também desenvolvimento WEB com API's utilizando o Flask.</p>
+<p>Quero me especializar em Python, desenvolver aplicações de análise de dados e também desenvolvimento WEB com API's.</p>
 
 <p>É importante mencionar que nunca trabalhei profissionalmente como desenvolvedor, mas logo quero entrar no mercado!</p>
 
@@ -30,7 +30,7 @@
 
 <p>I'm currently studying Python at Rocketseat! I also took a basic Python course with data analysis by Asimov, which I really enjoyed!
           
-<p>I want to specialize in Python, develop data analysis applications and also WEB development with APIs using Flask.</p>
+<p>I want to specialize in Python, develop data analysis applications and also WEB development with APIs.</p>
 
 <p>It's important to mention that I've never worked professionally as a developer, but I want to enter the market soon!</p>
 
