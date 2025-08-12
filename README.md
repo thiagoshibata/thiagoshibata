@@ -16,7 +16,7 @@
 
 <h3>Conecte-se comigo:</h3>
 <ul>
-  <li><a href="https://linkedin/in/thiagoshibata">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/thiagoshibata/">LinkedIn</a></li>
   <li><a href="mailto:thiago.shibatta@gmail.com">Email</a></li>
 </ul>
 
@@ -38,7 +38,7 @@
 
 <h3>Connect with me:</h3>
 <ul>
-  <li><a href="https://linkedin/in/thiagoshibata">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/thiagoshibata/">LinkedIn</a></li>
   <li><a href="mailto:thiago.shibatta@gmail.com">Email</a></li>
 </ul>
 
