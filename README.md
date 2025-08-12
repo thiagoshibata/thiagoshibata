@@ -1,40 +1,46 @@
 
-<h2>Apresentação</h2>
-<p>Olá, meu nome é Thiago, porém muitos me chamam apenas de Shibata!Tenho 33 anos, morador de Brasília-DF e sou Servidor Público.</p>
+<h1>Olá! Sou Thiago, um desenvolvedor com mais de 10 anos de experiência em TI, agora focado em me especializar em **Python**.</h1>
 
-<h2>Jornada</h2>
-<p>Me formei em Ciência da Computação e atuei na área de TI por mais de 10 anos! Nesse período trabalhei em diversas áreas, desde conserto suporte em computadores até gerenciamento de projetos (01 ano antes de passar em um concurso público).</p>
+<p>Minha jornada em tecnologia começou na Ciência da Computação, explorando linguagens como <b>Java</b> e <b>PHP</b>. Depois, me aprofundei em <b>JavaScript</b>, desenvolvendo APIs com <b>Node.js</b>, aplicações web responsivas com <b>React</b> e apps mobile com <b>React Native</b>.</p>
 
-<p>Comecei estudando java na faculdade, mas no final acabei entregando um projeto em PHP no meu TCC. Muitos anos depois me aventurei no mundo do javascript com Node e React. Desenvolvi APIs, Aplicações web responsivas e até um app Mobile com React-Native. </p>
+<p>Atualmente, estou imerso no ecossistema Python, estudando na <b>Rocketseat</b> e na <b>Asimov Academy</b>. Meu objetivo é construir um portfólio robusto e entrar no mercado como desenvolvedor, com foco em:</p>
 
-<h2>E agora</h2>
+<ul>
+  <li>Análise de Dados</li>
+  <li>Desenvolvimento Web com APIs</li>
+</ul>
 
-<p>Atualmente estou estudando Python pela Rocketseat! Também fiz um curso básico de Python com análise de dados pela Asimov, que muito me agradou!
-          
-<p>Quero me especializar em Python, desenvolver aplicações de análise de dados e também desenvolvimento WEB com API's.</p>
+<p>Estou em busca de oportunidades para colaborar em projetos de código aberto (open source) e aplicar meus conhecimentos em Python. Vamos nos conectar!</p>
 
-<p>É importante mencionar que nunca trabalhei profissionalmente como desenvolvedor, mas logo quero entrar no mercado!</p>
+<hr>
 
-<p>Estou aberto para ajudar em projetos de desenvolvimento com Python!</p>
+<h3>Conecte-se comigo:</h3>
+<ul>
+  <li><a href="[Seu link do LinkedIn]">LinkedIn</a></li>
+  <li><a href="mailto:[Seu endereço de email]">Email</a></li>
+</ul>
 
 
-<h2>Presentation</h2>
-<p>Hello, my name is Thiago, but many just call me Shibata! I'm 33 years old, resident of Brasília-DF and I'm a Public Servant.</p>
+<h1>Hello! I'm Thiago, a developer with over 10 years of experience in IT, now focused on specializing in **Python**.</h1>
 
-<h2>Journey</h2>
-<p>I graduated in Computer Science and worked in the IT area for over 10 years! During this period I worked in several areas, from computer repair and support to project management (01 year before passing a public exam).</p>
+<p>My tech journey began with Computer Science, where I explored languages like <b>Java</b> and <b>PHP</b>. I later delved into <b>JavaScript</b>, developing APIs with <b>Node.js</b>, responsive web applications with <b>React</b>, and mobile apps with <b>React Native</b>.</p>
 
-<p>I started studying Java at college, but in the end I ended up handing in a PHP project for my TCC. Many years later I ventured into the world of javascript with Node and React. I developed APIs, responsive web applications and even a mobile app with React-Native. </p>
+<p>Currently, I'm immersed in the Python ecosystem, studying at <b>Rocketseat</b> and <b>Asimov Academy</b>. My goal is to build a robust portfolio and enter the market as a developer, with a focus on:</p>
 
-<h2>And now</h2>
+<ul>
+  <li>Data Analysis</li>
+  <li>Web Development with APIs</li>
+</ul>
 
-<p>I'm currently studying Python at Rocketseat! I also took a basic Python course with data analysis by Asimov, which I really enjoyed!
-          
-<p>I want to specialize in Python, develop data analysis applications and also WEB development with APIs.</p>
+<p>I am actively seeking opportunities to collaborate on open-source projects and apply my Python skills. Let's connect!</p>
 
-<p>It's important to mention that I've never worked professionally as a developer, but I want to enter the market soon!</p>
+<hr>
 
-<p>I'm open to helping with Python development projects!</p>
+<h3>Connect with me:</h3>
+<ul>
+  <li><a href="[Your LinkedIn Profile Link]">LinkedIn</a></li>
+  <li><a href="mailto:[Your Email Address]">Email</a></li>
+</ul>
 
 
 <!--
