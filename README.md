@@ -16,8 +16,8 @@
 
 <h3>Conecte-se comigo:</h3>
 <ul>
-  <li><a href="[Seu link do LinkedIn]">LinkedIn</a></li>
-  <li><a href="mailto:[Seu endereço de email]">Email</a></li>
+  <li><a href="https://linkedin/in/thiagoshibata">LinkedIn</a></li>
+  <li><a href="mailto:thiago.shibatta@gmail.com">Email</a></li>
 </ul>
 
 
@@ -38,8 +38,8 @@
 
 <h3>Connect with me:</h3>
 <ul>
-  <li><a href="[Your LinkedIn Profile Link]">LinkedIn</a></li>
-  <li><a href="mailto:[Your Email Address]">Email</a></li>
+  <li><a href="https://linkedin/in/thiagoshibata">LinkedIn</a></li>
+  <li><a href="mailto:thiago.shibatta@gmail.com">Email</a></li>
 </ul>
 
 
